@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{274:function(e,n,d){"use strict";d.r(n);var t={name:"Home",middleware:[function(e){(0,e.redirect)("/itaberai")}]},l=d(13),component=Object(l.a)(t,undefined,undefined,!1,null,null,null);n.default=component.exports}}]);
